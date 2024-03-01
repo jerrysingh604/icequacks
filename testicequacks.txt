@@ -1,0 +1,6 @@
+{
+	name: "IceQuacksCoin",
+	symbol: "ICEQ",
+	description: "This is an IceQuacks token!",
+	image: "https://ipfs.io/ipfs/bafybeidljnhkf3oaoyux7gubcl6glv5sptqvbmqpg2dgmk7lkliai5g7de?filename=DALL%C2%B7E%202023-03-16%2017.26.56%20-%20Cute%20cartoon%20hippo%20looking%20in%20front.png"
+}
